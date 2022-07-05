@@ -1,0 +1,8 @@
+C:\Users\nvhom\source\repos\consol_Quest\consol_Quest\bin\Debug\consol_Quest.exe.config
+C:\Users\nvhom\source\repos\consol_Quest\consol_Quest\bin\Debug\consol_Quest.exe
+C:\Users\nvhom\source\repos\consol_Quest\consol_Quest\bin\Debug\consol_Quest.pdb
+C:\Users\nvhom\source\repos\consol_Quest\consol_Quest\obj\Debug\consol_Quest.csproj.AssemblyReference.cache
+C:\Users\nvhom\source\repos\consol_Quest\consol_Quest\obj\Debug\consol_Quest.csproj.SuggestedBindingRedirects.cache
+C:\Users\nvhom\source\repos\consol_Quest\consol_Quest\obj\Debug\consol_Quest.csproj.CoreCompileInputs.cache
+C:\Users\nvhom\source\repos\consol_Quest\consol_Quest\obj\Debug\consol_Quest.exe
+C:\Users\nvhom\source\repos\consol_Quest\consol_Quest\obj\Debug\consol_Quest.pdb
